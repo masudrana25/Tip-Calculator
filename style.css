@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: chartreuse;
+}
+.left-section{
+  text-align: left;
+  margin-right: 60px;
+}
+.main-section{
+  display: flex;
+  justify-content: center;
+}
